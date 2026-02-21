@@ -1,0 +1,16 @@
+Asymmetry coefficients
+ Forward-Backward asymmetry of MadGraph5 : A_FB = 0.180814  with uncertainty : 0.00305143
+ Forward-Backward asymmetry of Eco+ : A_FB = 0.184747  with uncertainty : 0.00304937
+
+Global p-value
+ Chi2 = 22.1922
+ Degrees of freedom = 24
+ p-value = 0.567797
+
+Transverse momentum pT
+ MadGraph5 <pT> = 47.6566 with uncertainty : 0.0433729
+ Eco+ <pT> = 47.5637 with uncertainty : 0.0435412
+
+Invariant mass
+ MadGraph5 mtt = 365 with uncertainty : 0
+ Eco+ mtt = 365 with uncertainty : 0
