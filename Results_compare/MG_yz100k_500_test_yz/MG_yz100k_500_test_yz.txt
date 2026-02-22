@@ -1,8 +1,0 @@
-Asymmetry coefficients
- Forward-Backward asymmetry of MadGraph5 : A_FB = 0.410181
- Forward-Backward asymmetry of Eco+ : A_FB = 0.403196
-
-Global p-value
- Chi2 = 37.1206
- Degrees of freedom = 24
- p-value = 0.0425624

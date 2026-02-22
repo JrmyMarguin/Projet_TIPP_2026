@@ -1,6 +1,6 @@
 physics:
-  model: 111  # Physics Contribution : - 100 = QED ; - 010 = Z ; 001 = Higgs ; 110 = QED + Z ; ... ; 111 = QED + Z + Higgs ;   
-  sqrt_s: 1000  #[GeV] Center-of-mass energy
+  model: 010  # Physics Contribution : - 100 = QED ; - 010 = Z ; 001 = Higgs ; 110 = QED + Z ; ... ; 111 = QED + Z + Higgs ;   
+  sqrt_s: 365  #[GeV] Center-of-mass energy
   m_e: 0.000511  #[GeV] Electron mass
   m_top: 172 #[GeV] Top quark mass          
   m_z: 91.188 #[GeV] Z boson mass
@@ -23,7 +23,7 @@ physics:
 
 
 generator:
-  n_events: 10000 #Number of events to generate
+  n_events: 100000 #Number of events to generate
   seed: 12 #Pseudo-random number generator seed
   weight_strategy: -4 #Do not modify
   nb_threads: 4 #Number of CPU cores used for computation
