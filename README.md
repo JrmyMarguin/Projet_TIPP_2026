@@ -216,5 +216,7 @@ Because our code is parallelized using OpenMP to improve .lhe file writing perfo
 
 Indeed, each thread is associated with a unique seed derived from the seed specified in the configuration file.
 One can check the configuration used for a specific run directly in the ```./Results/<run_name>/<run_name>_LHE.txt``` file.
-<img width="507" height="112" alt="image" src="https://github.com/user-attachments/assets/0989ea7c-e64e-491b-9676-63f21e684002" />
+<p align="center">
+  <img src="config.png" width="700">
+</p>
 
