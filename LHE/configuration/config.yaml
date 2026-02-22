@@ -1,5 +1,5 @@
 physics:
-  model: 010  # Physics Contribution : - 100 = QED ; - 010 = Z ; 001 = Higgs ; 110 = QED + Z ; ... ; 111 = QED + Z + Higgs ;   
+  model: 111  # Physics Contribution : - 100 = QED ; - 010 = Z ; 001 = Higgs ; 110 = QED + Z ; ... ; 111 = QED + Z + Higgs ;   
   sqrt_s: 365  #[GeV] Center-of-mass energy
   m_e: 0.000511  #[GeV] Electron mass
   m_top: 172 #[GeV] Top quark mass          
